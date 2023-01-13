@@ -1,0 +1,11 @@
+.medicine_list {
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 80%;
+    display: flex;
+    flex: 1;
+    justify-content: start;
+    flex-wrap: wrap;
+}

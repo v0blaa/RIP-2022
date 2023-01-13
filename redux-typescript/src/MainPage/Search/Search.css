@@ -1,0 +1,19 @@
+.search {
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-left: 10%;
+    margin-top: 5vh;
+    width: 80%;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+}
+
+.search div {
+    margin-right: 2vh;
+}
+
+.search .edit {
+    width: 50%;
+}

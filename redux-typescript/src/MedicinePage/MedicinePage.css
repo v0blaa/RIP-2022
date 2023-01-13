@@ -1,0 +1,65 @@
+.all {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.loading {
+    box-sizing: border-box;
+    width: 80%;
+    margin-left: 10%;
+    margin: 0 auto;
+    margin-top: 5vh;
+}
+
+.medicine_page {
+    box-sizing: border-box;
+    width: 80%;
+    margin-left: 10%;
+    margin: 0 auto;
+    margin-top: 5vh;
+    background: #EEEEEE;
+    border-radius: 1vh;
+    text-align: justify;
+    -webkit-box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 0px 8px 4px rgba(34, 60, 80, 0.2);
+}
+
+.medicine_page .m_header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    background: #14A0BA;
+    border-radius: 1vh 1vh 0 0;
+}
+
+.medicine_page .m_header div {
+    margin-right: 1vh;
+    font-size: 2vh;
+    padding: 1.5vh;
+    padding-left: 2vh;
+    color: white;
+}
+
+.medicine_page .m_farm_group {
+    padding: 1vh;
+    padding-left: 2vh;
+    color: #838383;
+    font-size: 1.7vh;
+}
+
+.medicine_page .info {
+    padding: 1vh;
+    padding-left: 2vh;
+}
+
+.medicine_page .info .info_block {
+    margin-bottom: 2vh;
+    margin-right: 1vh;
+}
+
+.medicine_page .info .info_block .info_title {
+    font-weight: bold;
+    color: #686868;
+}

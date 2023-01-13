@@ -1,0 +1,9 @@
+.order_statuses {
+    display: flex;
+    flex: 1;
+    margin-top: 2vh;
+}
+
+.order_statuses div {
+    margin-right: 1vh;
+}

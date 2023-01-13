@@ -1,0 +1,23 @@
+.order_filter {
+    box-sizing: border-box;
+    display: block;
+    margin-top: 3vh;
+}
+
+.order_filter .block {
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+}
+
+.order_filter .block div {
+    margin-right: 1vh;
+}
+
+.order_filter .block .basic_input {
+    width: 15%;
+}

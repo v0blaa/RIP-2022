@@ -1,0 +1,13 @@
+.blue_button {
+    padding: 1vh;
+    border-radius: 0.5vh;
+    background: #14A0BA;
+    color: white;
+    user-select: none;
+    transition-duration: 0.3s;
+}
+
+.blue_button:hover {
+    background: #0A778B;
+    transition-duration: 0.3s;
+}

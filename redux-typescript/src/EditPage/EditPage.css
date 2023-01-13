@@ -1,0 +1,35 @@
+.edit_page {
+    box-sizing: border-box;
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5vh;
+}
+
+.edit_page .edit_block {
+    display: flex;
+    flex: 1;
+    align-items: flex-start;
+    align-content: flex-start;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+.edit_page .edit_block .edit_left {
+    text-align: right;
+    margin-right: 1vh;
+}
+
+.edit_page .edit_block .edit_right {
+    width: 45%;
+}
+
+.edit_page .edit_block .edit_left div, .edit_page .edit_block .edit_right div {
+    height: 3.5vh;
+    margin-bottom: 1vh;
+    vertical-align: middle;
+}
+
+#desc textarea, #desc {
+    height: 7vh;
+}

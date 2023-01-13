@@ -1,0 +1,7 @@
+.main_page #bt {
+    display: inline-block;
+    box-sizing: border-box;
+    margin-left: 10%;
+    margin-top: 2vh;
+    margin-bottom: -2vh;
+}

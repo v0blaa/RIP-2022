@@ -1,0 +1,18 @@
+.header {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 5vh;
+    background: #0A778B;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    color: white;
+    padding-left: 3vh;
+}
+
+.header .option {
+    font-size: 1.8vh;
+    padding: 1.5vh;
+    user-select: none;
+}

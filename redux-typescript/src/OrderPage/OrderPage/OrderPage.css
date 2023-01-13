@@ -1,0 +1,7 @@
+.order_page {
+    box-sizing: border-box;
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5vh;
+}

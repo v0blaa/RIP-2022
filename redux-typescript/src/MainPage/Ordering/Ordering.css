@@ -1,0 +1,53 @@
+.ordering {
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    flex: 1;
+    margin-top: 3vh;
+    align-items: center;
+    align-content: center;
+}
+
+.ordering div {
+    margin-right: 1vh;
+}
+
+.ordering .farm_group {
+    width: 30vh;
+}
+
+.ordering .farm_group .react_select {
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 3vh;
+    background-color: #EEEEEE;
+}
+
+.ordering .min_max {
+    display: flex;
+    flex: 1;
+    font-size: 2vh;
+    align-items: center;
+    align-content: center;
+}
+
+.ordering .min_max .price {
+    box-sizing: border-box;
+    width: 5vh;
+}
+
+.ordering .min_max .price input {
+    width: 100%;
+    border-radius: 0.5vh;
+    border: 0.1vh solid #C7C7C7;
+    min-height: 3vh;
+    padding-left: 1vh;
+}
+
+.ordering .min_max .tire {
+    margin-left: 1vh;
+    margin-right: 1vh;
+    color: #A1A1A1;
+}
